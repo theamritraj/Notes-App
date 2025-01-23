@@ -1,4 +1,4 @@
-.create-note-container {
+/* .create-note-container {
   display: flex;
   padding: 20px;
   border-radius: 8px;
@@ -30,7 +30,7 @@
 }
 
 .create-button {
-  margin-top: 130px; /* Align with the color input */
-  height: 35px; /* Match the height of the color input */
-  padding: 0 10px; /* Adjust padding for better appearance */
-}
+  margin-top: 130px; 
+  height: 35px; 
+  padding: 0 10px; 
+} */

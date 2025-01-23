@@ -4,7 +4,7 @@ import './Header.css'; // Import the CSS file
 
 const Header: React.FC = () => {
   return (
-    <AppBar >
+    <AppBar color={'transparent'} >
       <Toolbar className="header">
         <Typography className="header-title">Amrit Note</Typography>
       </Toolbar>
