@@ -1,1 +1,0 @@
-export const logo = 'https://www.canva.com/design/DAGdAqNXp4o/M_u-KuSEVnAildvQDpaeQQ/view?utm_content=DAGdAqNXp4o&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0ee771ba5f'
